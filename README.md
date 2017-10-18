@@ -1,4 +1,4 @@
-# petadmin
+# petadmin with RAILS
 
 # A small project with fae, sidekiq and redis.
 
